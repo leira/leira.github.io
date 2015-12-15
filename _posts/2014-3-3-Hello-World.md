@@ -10,3 +10,5 @@ Next you can update your site name, avatar and other options using the _config.y
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
 
 $ \forall a \in \mathbb N. \exists y \in \mathbb N. a < 3 \leftrightarrow a^2 < y $
+
+$$ a^2 + b^2 = c^2 $$
