@@ -3,7 +3,7 @@ layout: post
 title: StackEdit post test
 ---
 
-$\sum_1^n$
+**Solution**: $ \forall x \in X. T(x) \land S(x) \rightarrow A(x) $
 
 
 ----------
