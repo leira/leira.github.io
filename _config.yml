@@ -55,7 +55,6 @@ baseurl: ""
 
 # markdown: redcarpet
 markdown: kramdown
-mathjax: true
 highlighter: pygments
 permalink: /:title/
 
